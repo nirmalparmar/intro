@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nirmal Harishankar Parmar.
 - 👀 I’m interested in Software Engineering roles.
-- 🌱 I’m currently learning DApp.
 - 📫 How to reach me nirmalparmar48@gmail.com
 
 <!---
